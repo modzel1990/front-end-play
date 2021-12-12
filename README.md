@@ -20,6 +20,9 @@ npm run build
 npm run lint
 ```
 
+### What I used to build it
+I've used Vue CLI and installed Vue.js 2 + Vue Router + Lint, I've also installed Bootstrap 5 via npm.
+
 ### Code version control and branch/development life-cycle  
 I would use either typical git or git-flow. I am more onto using git-flow way though. 
 We would have `master` and it's ideal latest copy `develop` 
