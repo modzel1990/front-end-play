@@ -45,7 +45,7 @@ In the above list I would note that some steps might loop, especially somewhere 
 
 ### Animations CSS/JS
 For this particular project I've added just a tiny CSS animation, for more complex and fun animations I would highly
-likely use frameworks such as GASP (GreenSock) and ScrollJs. Nevertheless, using CSS is fun as well.
+likely use frameworks such as GSAP (GreenSock) and ScrollJs. Nevertheless, using CSS is fun as well.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
